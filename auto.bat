@@ -1,2 +1,0 @@
-python ConvBin.py
-ipython
